@@ -1,0 +1,219 @@
+body {
+  text-align: center;
+}
+
+
+.container-fluid {
+  background: linear-gradient(to top, #363535 4%, #97999b 100%);
+  text-align: center;
+  padding: 0 15% 0;
+  position: fixed;
+  width: 100%;
+
+}
+
+.header {
+  text-align: center;
+  padding: 5% 15% 0;
+
+
+}
+
+/* .wrapping {
+  padding-right: 15%;
+  padding-left: 15%;
+
+  max-width: 1400px;
+
+  background-color: black;
+} */
+
+
+.nav-link {
+  color: honeydew;
+  font-family: 'Special Elite', cursive;
+  font-size: .75rem;
+}
+
+
+.doab {
+
+  width: 75%;
+  z-index: 0;
+  padding-bottom: 10px;
+
+}
+
+
+h1 {
+  color: black;
+  font-family: 'Special Elite', cursive;
+  font-size: 3.4rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  color: honeydew;
+  font-family: 'Special Elite', cursive;
+  font-size: 1.3rem;
+}
+
+
+
+
+.navbar-brand{
+  font-family: 'Gentium Book Basic', serif;
+  font-size: 1rem;
+  font-weight: bold;
+
+}
+
+.intro-text {
+  color: black;
+  font-family: 'Special Elite', sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 1%;
+
+}
+
+.background-info {
+
+  background-color: black;
+  color: honeydew;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  padding: 1% 15% 1%;
+}
+
+
+
+.row {
+background-color: purple;
+text-align: center;
+padding: 2% 15% 2%;
+}
+
+
+
+/* .prewar{
+  width: 100%;
+
+
+}
+
+.interims{
+  width: 83%;
+
+}
+
+.bush{
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 34px;
+} */
+
+
+.carousel-item {
+  padding: 2% 15% 2%;
+  /* background-color: black; */
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+
+.image-kaiser{
+  width:40%;
+
+}
+
+.image-interims{
+  margin-top:3.5%;
+  margin-bottom:1%;
+  width:60%;
+  border-radius: 10px;
+
+}
+
+.image-bush{
+  margin-top:6.5%;
+  margin-bottom:3%;
+  width:70%;
+  border-radius: 10px;
+
+}
+
+.testimonial-text{
+  padding-top: 25px;
+  text-align: center;
+  font-size: 2rem;
+
+}
+
+.other-stuff{
+text-align: center;
+
+
+}
+
+.video{
+
+  padding: 3% 15% 5%;
+  text-align: center;
+  background-color: black;
+  color:honeydew;
+
+}
+
+
+
+.video-link {
+  color: honeydew;
+
+
+}
+
+.video-link:hover {
+  color: black;
+  text-decoration:none;
+}
+
+
+#footer {
+  background: linear-gradient(to top, #97999b 4%, #363535 100%);
+  text-align: center;
+  padding-top: 10px;
+    padding-bottom: 0.5px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: .75rem;
+  color: honeydew;
+  margin-bottom: 0;
+
+
+}
+
+.icon {
+  color: honeydew;
+}
+
+.icon:hover {
+  color: green;
+
+}
+
+@media (max-width: 1300px) {
+
+  #title {
+    text-align: center;
+  }
+
+}
+
+/* font-family: 'Acme', sans-serif;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Gentium Book Basic', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Special Elite', cursive;
+font-family: 'Ubuntu', sans-serif; */
