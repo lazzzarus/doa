@@ -1,0 +1,219 @@
+body {
+  text-align: center;
+  background: url("../images/peacetime.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  box-shadow: inset 0 0 0 1000px rgba(0,0,0,.6);
+  margin: auto;
+
+}
+
+
+h1 {
+  color: black;
+  font-family: 'Fredericka the great', serif;
+  font-size: 3.8rem;
+  margin-bottom: 0;
+  text-decoration: none;
+
+}
+
+h2 {
+  color: black;
+  font-family: 'Fredericka the great', serif;
+  font-size: 2.6rem;
+  margin-bottom: 0;
+
+
+}
+
+h3 {
+  color: black;
+  font-family: 'Fredericka the great', serif;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+  letter-spacing: .075rem;
+  text-decoration: none;
+}
+
+h4 {
+  color: black;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1rem;
+  letter-spacing: 0.075px;
+  margin-bottom: 0;
+
+
+}
+
+h5 {
+    font-family: 'Fredericka the great', serif;
+  font-size: 1.5rem;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  text-align: center;
+  color: purple;
+  opacity:.65;
+  padding-left: 25%;
+  padding-right: 25%;
+
+
+
+}
+
+h6 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.4rem;
+  font-style: italic;
+}
+
+hr {
+  border-color: black;
+  opacity: .60;
+  border-style: dotted none none none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-width: 8px;
+  width: 6%;
+}
+
+abbr {
+  font-style: italic;
+}
+
+
+.nav-bar{
+  padding-left: 2%;
+  padding-right: 2%;
+
+
+}
+
+.navbar-fixedtop{
+  padding-top: 4px;
+  padding-bottom: 2px;
+}
+.container-fluid{
+  font-family: 'Ubuntu', sans-serif;
+  color: #454545;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+
+}
+
+.crest {
+  opacity: .80;
+}
+.crest:hover {
+  opacity:.45;
+}
+
+
+.header{
+  padding-left: 7%;
+  padding-right: 7%;
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+
+.gea {
+  margin-top: -10px;
+}
+
+.top {
+  margin: 5px;
+}
+
+
+.top:hover {
+  opacity: .40;
+}
+
+
+.nav {
+  max-width: 1003px;
+  overflow: hidden;
+  /* background-color: #ffffff;
+background-image: linear-gradient(90deg, #ffffff 0%, #595959 54%, #ffffff 100%); */
+background-color: black;
+text-decoration: none;
+margin: 0 auto;
+text-align: center;
+padding-left: 1px;
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+.nav li {
+  display: inline;
+}
+
+
+
+.nav a {
+  font-family: 'Amiri', serif;
+  float: left;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding: 3px 41px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+
+
+.nav a:hover {
+  background-color: red;
+}
+
+.doab-history {
+  margin-left: 15%;
+  margin-top: 20px;
+  margin-right: 15%;
+  margin-bottom: 10px;
+  box-shadow: 0px 0px 9px 9px  #b1b1b1 inset;
+
+}
+
+.doab-history a{
+  text-decoration: none;
+
+}
+
+.doab-history p{
+padding-left: 20px;
+padding-right: 20px;
+
+}
+
+.bottom {
+  padding-bottom: 10px;
+}
+
+
+.bottom:hover {
+  opacity:.50;
+}
+
+
+
+
+
+
+/* --------------------------------------- */
+
+
+
+
+
+@media (max-width: 1300px) {
+
+
+}
